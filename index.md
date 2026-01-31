@@ -46,6 +46,7 @@ OWASP - The Open Worldwide Application Security Project は、Webアプリケー
 
 <br>
 
+
 * 2026/02/13(金)  OWASP Nagoya Chapter ミーティング 第42回
 
     * 開催日：2026年02月13日(金)　19:30 〜 21:00

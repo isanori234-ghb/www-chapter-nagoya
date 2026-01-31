@@ -6,8 +6,6 @@
 
 ### Board Member / Core Member
 * Shigeru Inoue
-* Mayuko Komiyama
-* Hiroki Koishikura
 * Hitomi Kato
-* Ryuichi Yamaguchi
 * Takayuki Taniguchi
+* Tatsuya Sato
